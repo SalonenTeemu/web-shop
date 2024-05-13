@@ -1,6 +1,6 @@
 # web-shop
 
-Web shop app with plain JS, HTML and CSS.
+Web shop application implemented with plain JS, HTML and CSS as a course group project.
 
 ## Setup the app
 
